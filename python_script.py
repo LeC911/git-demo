@@ -1,3 +1,3 @@
-#!/usr/bin/python 3
+#!/usr/bin/python3
 
-print('Hello world!')
+print(f'Hello {input("What is your name? ")}!')
